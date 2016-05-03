@@ -1,0 +1,7 @@
+CleanTool User Guide
+
+Cannot remove itself on base image
+
+http://www.msfn.org/board/topic/93146-silent-install-ms-office-2000/
+
+

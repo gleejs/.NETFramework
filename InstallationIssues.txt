@@ -1,0 +1,5 @@
+Guideline of DotNetframe Installation issues
+
+://blogs.msdn.microsoft.com/astebner/2008/03/07/updated-what-to-do-if-other-net-framework-setup-troubleshooting-steps-do-not-help/
+
+
